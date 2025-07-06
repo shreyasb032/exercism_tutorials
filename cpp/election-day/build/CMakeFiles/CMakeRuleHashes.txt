@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-36ef4594bcc0d11421a0945f9503613e CMakeFiles/test_election-day

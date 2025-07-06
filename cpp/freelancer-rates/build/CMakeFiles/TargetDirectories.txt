@@ -1,4 +1,0 @@
-/home/shreyas-bhat/exercism/exercism/cpp/freelancer-rates/build/CMakeFiles/freelancer-rates.dir
-/home/shreyas-bhat/exercism/exercism/cpp/freelancer-rates/build/CMakeFiles/test_freelancer-rates.dir
-/home/shreyas-bhat/exercism/exercism/cpp/freelancer-rates/build/CMakeFiles/edit_cache.dir
-/home/shreyas-bhat/exercism/exercism/cpp/freelancer-rates/build/CMakeFiles/rebuild_cache.dir

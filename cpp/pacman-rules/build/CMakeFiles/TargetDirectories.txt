@@ -1,4 +1,0 @@
-/home/shreyas-bhat/exercism/exercism/cpp/pacman-rules/build/CMakeFiles/pacman-rules.dir
-/home/shreyas-bhat/exercism/exercism/cpp/pacman-rules/build/CMakeFiles/test_pacman-rules.dir
-/home/shreyas-bhat/exercism/exercism/cpp/pacman-rules/build/CMakeFiles/edit_cache.dir
-/home/shreyas-bhat/exercism/exercism/cpp/pacman-rules/build/CMakeFiles/rebuild_cache.dir
