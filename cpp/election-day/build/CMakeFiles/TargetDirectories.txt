@@ -1,0 +1,4 @@
+/home/shreyas-bhat/exercism/exercism/cpp/election-day/build/CMakeFiles/election-day.dir
+/home/shreyas-bhat/exercism/exercism/cpp/election-day/build/CMakeFiles/test_election-day.dir
+/home/shreyas-bhat/exercism/exercism/cpp/election-day/build/CMakeFiles/edit_cache.dir
+/home/shreyas-bhat/exercism/exercism/cpp/election-day/build/CMakeFiles/rebuild_cache.dir

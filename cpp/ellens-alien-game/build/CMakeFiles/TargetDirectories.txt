@@ -1,0 +1,4 @@
+/home/shreyas-bhat/exercism/exercism/cpp/ellens-alien-game/build/CMakeFiles/ellens-alien-game.dir
+/home/shreyas-bhat/exercism/exercism/cpp/ellens-alien-game/build/CMakeFiles/test_ellens-alien-game.dir
+/home/shreyas-bhat/exercism/exercism/cpp/ellens-alien-game/build/CMakeFiles/edit_cache.dir
+/home/shreyas-bhat/exercism/exercism/cpp/ellens-alien-game/build/CMakeFiles/rebuild_cache.dir
